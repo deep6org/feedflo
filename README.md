@@ -9,3 +9,5 @@ Hedge against online use. How can we create an inverse-correlated financial prod
 **Vaccime[1](pron. vak-seem)** Any meta-meme or memeticity which confers resistance or immunity to one or more memes, allowing that person to be exposed without acquiring an active infection. Also called an immuno-meme. Common immune-conferring memes are "Faith", "Loyalty", "Scepticism", and "Tolerance".
  
 [source](https://memetics.miraheze.org/wiki/Vaccime)
+
+use: https://twitter.com/Superfluid_HQ/status/1310584375164235776
